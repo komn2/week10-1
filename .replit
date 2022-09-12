@@ -1,0 +1,2 @@
+run = 'npm --prefix ./twitter-with-lens run dev'
+entrypoint = './ twitter-with-lens /pages/index.js'
